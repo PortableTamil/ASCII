@@ -1,0 +1,5 @@
+13:13:28 INFO Loading feed data from "feeds.dat"
+13:13:28 INFO Loaded 1 feeds, 0 items, 0 filters
+13:13:28 INFO Starting worker threads
+13:13:28 INFO Polling feed "http://www.feednotifier.com/welcome.xml"
+13:13:38 INFO Saving feed data to "feeds.dat"
